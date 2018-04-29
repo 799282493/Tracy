@@ -28,7 +28,7 @@ cd libpcap-1.8.1
 make
 make install
 
-git clone https://github.com/PUBG666666/xxs.git
+git clone https://github.com/799282493/Tracy.git
 cd PUBG-Radar-Onekey/
 npm i
 npm i -g pino
